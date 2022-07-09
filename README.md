@@ -6,4 +6,4 @@ Used _Filebeat, Packetbeat, and Metricbeat_ to capture data that was then sent t
 
 Mitigation was provided for each vulnerability found. 
 
-[Red vs Blue Presentation]
+[Red vs Blue Presentation](https://github.com/mdwcoop24/Red_vs_Blue/blob/4b0c46739ce17417a6223798f5a40eca894b0ca0/Project%202%20Group%20Submission%20Michelle%20Cooper.pdf)
